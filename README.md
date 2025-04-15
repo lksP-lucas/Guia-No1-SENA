@@ -1,0 +1,1 @@
+# profe que vaya a leer esto, mire que soy re bobo y vincule el github al codigo, ahi todo bien, por que yo dije como pues si se conecta al del desktop tambien lo hara a la pagina, pero resulta que no, tenaz, lo bueno es que ya estaba guardado todo en una carpeta que el git del desktop me guardo 👍👍
