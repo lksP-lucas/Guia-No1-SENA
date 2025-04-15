@@ -1,0 +1,6 @@
+x = input("Hola, ¿como te llamas?: ")
+print (f" que tal? {x}")
+y = float(input ( "¿cuantas horas trabajas al dia? "))
+z = float(input (" y ¿cuantos pesos te pagan por hora? "))
+print (" aaaah ok, entoces ganas en promedio ")
+print ((y * z), "pesos")
